@@ -14,3 +14,18 @@ font-size: 18px;
 .change-font {
  font-family: 'Capriola', sans-serif;
 }
+
+.center {
+ display: flex;
+ align-items: center;
+}
+
+.h2 {
+ color: #FB8500;
+}
+
+.imagecenter {
+ display: flex !important;
+ border: solid 1px red;
+align-items: right;
+}
