@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Capriola&family=Comfortaa:wght@300;400&family=Righteous&display=swap');
+
+
+
+.change-color {
+ color: #FB8500
+ ;
+}
+
+.paragraph-font-size {
+font-size: 18px;
+}
+
+.change-font {
+ font-family: 'Capriola', sans-serif;
+}
