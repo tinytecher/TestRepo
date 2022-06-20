@@ -1,12 +1,37 @@
 @import url('https://fonts.googleapis.com/css2?family=Capriola&family=Comfortaa:wght@300;400&family=Righteous&display=swap');
 
+.h2-center {
+ display: flex;
+ align-items: center;
+}
 
+/* colour of  'Get to know me' header*/
+.h2{
+ color:#FB8500;
+}
 
+.paragraph-font-size {
+ margin-left: 60px;
+ margin-right: 60px;
+}
+
+/* colour of 'My Work' header */
 .change-color {
- color: #FB8500
+ color: #FB8500;
+}
+
+.change-color-collab {
+ color: #580AFF
  ;
 }
 
+.change-color-untied {
+ color: #118AB2
+
+ ;
+}
+
+/* sub heading font size */
 .paragraph-font-size {
 font-size: 18px;
 }
@@ -15,17 +40,8 @@ font-size: 18px;
  font-family: 'Capriola', sans-serif;
 }
 
-.center {
- display: flex;
- align-items: center;
-}
-
-.h2 {
- color: #FB8500;
-}
-
-.imagecenter {
- display: flex !important;
- border: solid 1px red;
-align-items: right;
+/* size of image and space around */
+.img-responsive {
+ width: 100%; 
+ padding: 15%;
 }
