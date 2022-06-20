@@ -1,7 +1,23 @@
-.link {
+.change-color1 {
  color: #2596BE;
 }
 
-.link2 {
+.change-color2 {
  color: #580AFF;
 }
+
+/* .link {
+ color: green;
+} */
+
+/* sub heading font size */
+.paragraph-font-size {
+ font-size: 18px;
+ padding-top: 15px;
+ padding-bottom: 15px;
+ }
+
+ .indent {
+  margin-left: 15px;
+  font-size: 15px;
+ }

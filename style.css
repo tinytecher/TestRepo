@@ -40,8 +40,14 @@ font-size: 18px;
  font-family: 'Capriola', sans-serif;
 }
 
-/* size of image and space around */
-.img-responsive {
+
+
+.change-font-size {
+ font-size: 10px;
+}
+
+/* size of timeline image and space around - doesn't actually work now*/
+/* .img-responsive {
  width: 100%; 
  padding: 15%;
-}
+} */
