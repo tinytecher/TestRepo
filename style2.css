@@ -1,3 +1,9 @@
+
+.h2-center {
+ display: flex;
+ align-items: center;
+}
+
 .change-color1 {
  color: #2596BE;
 }
@@ -13,11 +19,13 @@
 /* sub heading font size */
 .paragraph-font-size {
  font-size: 18px;
- padding-top: 15px;
- padding-bottom: 15px;
+ padding-top: 0px;
+ padding-bottom: 0px;
  }
 
  .indent {
   margin-left: 15px;
   font-size: 15px;
  }
+
+ 
