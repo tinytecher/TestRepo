@@ -10,6 +10,13 @@
  color:#FB8500;
 }
 
+
+#navbar-collapse {
+    max-height: 400px;
+}
+
+
+
 .paragraph-font-size {
  margin-left: 60px;
  margin-right: 60px;
@@ -46,8 +53,27 @@ font-size: 18px;
  font-size: 10px;
 }
 
-/* size of timeline image and space around - doesn't actually work now*/
-/* .img-responsive {
- width: 100%; 
- padding: 15%;
-} */
+.push {
+ /* border: solid 3px yellow; */
+ margin-left:  75em;
+ margin-top: 10px;
+ padding: 5px;
+}
+
+.icon-container { 
+ border: solid 3px green;
+ list-style: none;
+margin-top: 5px;
+ display: grid;
+ grid-template-rows:1/1; 
+justify-content: end;
+}
+
+/* 
+this says as soon as it gets below 600px use the following CSS properties - e.g. smaller font size, no padding. */
+/* @media only screen and (max-width: 600px) {
+ .push {
+     margin-left: 10px;
+     padding: 0;
+ }
+ } */
