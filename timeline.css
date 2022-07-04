@@ -69,6 +69,7 @@ body{
   z-index: -1;
   transform: rotate(45deg);
 }
+
 .row-1 section::before{
   right: -7px;
 }

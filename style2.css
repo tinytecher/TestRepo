@@ -12,6 +12,13 @@
  color: #580AFF;
 }
 
+.nav {
+ border: solid 1px pink;
+ width: 100%;
+ display: flex;
+ align-items: center;
+}
+
 /* .link {
  color: green;
 } */

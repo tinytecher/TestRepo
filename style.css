@@ -12,10 +12,21 @@
 
 
 #navbar-collapse {
+    border: solid 1px yellow;
     max-height: 400px;
 }
 
+.nav {
+    border: solid 1px pink;
+    width: 100%;
+    display: flex;
+    /* align-items: center; */
+}
 
+.navbar {
+    border: blue solid 1px;
+    max-width: 100%;
+}
 
 .paragraph-font-size {
  margin-left: 60px;
@@ -53,21 +64,22 @@ font-size: 18px;
  font-size: 10px;
 }
 
-.push {
- /* border: solid 3px yellow; */
- margin-left:  75em;
+/* .push {
+ border: solid 3px purple;
+ margin-left: 100px;
  margin-top: 10px;
  padding: 5px;
-}
+ list-style: none;
+} */
 
-.icon-container { 
+/* .icon-container { 
  border: solid 3px green;
  list-style: none;
 margin-top: 5px;
  display: grid;
  grid-template-rows:1/1; 
 justify-content: end;
-}
+} */
 
 /* 
 this says as soon as it gets below 600px use the following CSS properties - e.g. smaller font size, no padding. */
