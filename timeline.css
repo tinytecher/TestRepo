@@ -22,6 +22,21 @@ body{
   background: #3ea0e2;
 }
 
+/* #navbar-collapse {
+  width: 100%;
+  border: solid 7px blue;
+  display: flex;
+align-items: center;
+} */
+
+/* .nav {
+  width: 100%;
+  border: solid 7px blue;
+  display: flex;
+align-items: center;
+} */
+
+
 /* width of boxes, margin from text intro para,   */
 .wrapper{
   max-width: 1200px;

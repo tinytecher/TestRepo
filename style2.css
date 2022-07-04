@@ -12,11 +12,16 @@
  color: #580AFF;
 }
 
-.nav {
- border: solid 1px pink;
+/* .nav {
  width: 100%;
  display: flex;
  align-items: center;
+} */
+
+#navbar-collapse {
+ width: 100%;
+ display: flex;
+align-items: center;
 }
 
 /* .link {

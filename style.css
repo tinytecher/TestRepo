@@ -1,9 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Capriola&family=Comfortaa:wght@300;400&family=Righteous&display=swap');
 
-.h2-center {
+/* .h2-center {
+    border: solid 3px purple;
  display: flex;
  align-items: center;
-}
+} */
 
 /* colour of  'Get to know me' header*/
 .h2{
@@ -12,19 +13,16 @@
 
 
 #navbar-collapse {
-    border: solid 1px yellow;
     max-height: 400px;
 }
 
 .nav {
-    border: solid 1px pink;
     width: 100%;
     display: flex;
-    /* align-items: center; */
+align-items: center;
 }
 
 .navbar {
-    border: blue solid 1px;
     max-width: 100%;
 }
 
