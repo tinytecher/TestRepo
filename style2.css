@@ -40,4 +40,14 @@ align-items: center;
   font-size: 15px;
  }
 
+
+ /* .circle {
+  flex-direction: centre;
+
+ } */
  
+ .centre {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
