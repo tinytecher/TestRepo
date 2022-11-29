@@ -11,15 +11,18 @@
  color:#FB8500;
 }
 
-
 #navbar-collapse {
     max-height: 400px;
 }
 
+.nav-font {
+    font-size: 1px;
+}
 .nav {
     width: 100%;
     display: flex;
 align-items: center;
+justify-content: left;
 }
 
 .navbar {
@@ -69,6 +72,45 @@ font-size: 18px;
 .change-font-size {
  font-size: 10px;
 }
+
+
+footer {
+    background-color: rgba(0, 0, 0, 0.934);
+    width:100%;
+    height: 70px;
+    padding-bottom: 25px;
+   }
+   
+   #linkedin {
+    height: 25px;
+   width:25px;
+   margin-top: 20px; 
+   }
+   
+   #github {
+    height: 30px;
+   width:30px;
+   margin-top: 20px; 
+   }
+   
+   
+   .icons {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+   }
+
+   #email {
+    height: 30px;
+    width: 30px;
+    margin-top: 20px;
+   }
+   
+   #avatar {
+    height:50px;
+    width: 50px;
+   }
 
 /* .push {
  border: solid 3px purple;
