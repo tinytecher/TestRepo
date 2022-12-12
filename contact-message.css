@@ -27,12 +27,19 @@ background: orange;
  padding: -50px;
 }
 
+.input-box {
+ border-color: orange;
+width: 500px;
+00px;
+}
+
 .message-box {
  height: 100px;
  width: 500px;
  padding-top: 0px;
  margin-top: 0px;
  font-weight: 200px;
+ border-color: orange;
 }
 
 
@@ -50,6 +57,10 @@ h2 {
  margin-top: 70px;
  
 } 
+
+h3 {
+ font-size: 1.5em;
+}
 
 
 .contact-height {
