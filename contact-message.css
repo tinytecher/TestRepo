@@ -48,6 +48,7 @@ background: orange;
 
 h2 {
  margin-top: 70px;
+ 
 } 
 
 
@@ -60,10 +61,44 @@ font-size: 15px;
 }
 
 
-.fa.fa-linkedin {
+/* .fa.fa-linkedin {
  height: 0px;
+} */
+
+/* .container {
+ flex-direction: row;
+ 
+} */
+
+/* .social {
+ border-width: 10px;
+ border-color: green;
+ display: grid;
+ justify-content: space-evenly;
+} */
+
+.grid-container{
+display:inline-grid;
+gap: 50px 60px;
 }
 
+.grid-item1 {
+ grid-column-start: 1; 
+ grid-column-end: 1;
+ column-width:100px;
+}
+
+.grid-item2 {
+ grid-column-start: 2;
+ grid-column-end: 2;
+ column-width: 20px;
+}
+
+.grid-item3 {
+ grid-column-start: 3;
+ grid-column-end: 3;
+ column-width: 20px;
+}
 
 /* .fa-icon {
  height: 100px;
