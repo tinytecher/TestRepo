@@ -1,0 +1,81 @@
+
+
+/* #form-control {
+ height: 400px;
+ width: 200px;
+} */
+
+/* p {
+ line-height: 400px;
+} */
+
+/* .section-container {
+ height:fit-content;
+} */
+
+/* .hero-full-container {
+height:max-content -100px;
+} */
+
+/* .navbar-default {
+background: orange;
+} */
+
+
+.box {
+ line-height: -100px;
+ padding: -50px;
+}
+
+.message-box {
+ height: 100px;
+ width: 500px;
+ padding-top: 0px;
+ margin-top: 0px;
+ font-weight: 200px;
+}
+
+
+.button {
+ height:40px;
+ width: 80px;
+ font-size:larger;
+ font-weight: 10px;
+ border-color: orange;
+ border-radius: 5px;
+ border-width: 5px;
+}
+
+h2 {
+ margin-top: 70px;
+} 
+
+
+.contact-height {
+ height: 100px;
+} */
+
+h4 {
+font-size: 15px;
+}
+
+
+.fa.fa-linkedin {
+ height: 0px;
+}
+
+
+/* .fa-icon {
+ height: 100px;
+ color: orange;
+} */
+
+/* .wrapper {
+ height: 400px;
+ margin-top: -250px;
+} */
+/* 
+.form-action{
+ display: flex;
+ align-items: center;
+} */
