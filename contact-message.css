@@ -18,11 +18,42 @@ height:max-content -100px;
 } */
 
 /* .navbar-default {
-background: orange;
+background: black;
+} */
+
+
+header {
+ background-color: black;
+ 
+}
+
+#navbar-collapse {
+ background-color: black;
+ color: green;
+ border-color: pink;
+}
+
+.link {
+ color: white;
+}
+
+.link:hover {
+ color: white;
+}
+
+
+
+
+
+/* .collapsed {
+ background-color: black;
 } */
 
 
 
+.text {
+ color: green;
+}
 
 .box {
  line-height: -100px;
